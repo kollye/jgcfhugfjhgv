@@ -1,0 +1,225 @@
+@font-face { font-family : mw_font ; src : url(mw_font.ttf) ; } 
+
+html
+{
+		background-image : url('bg.jpg');
+}
+
+body 
+{ 
+	background : #E4D9A3;
+}
+#header img
+{
+	display : block;
+	margin-left : auto;
+	margin-right : auto;
+	margin : 25px auto;
+}
+	
+#header h2
+{
+	text-align : center;
+	margin : 5px auto;
+	font-family : 'mw_font';
+	color : #413220;
+}
+
+#intro h1
+{
+	font-family : 'mw_font';
+	color : #413220;
+	margin-left : 25px;
+}
+
+#intro p
+{
+	font-family : 'mw_font';
+	margin-left : 25px;
+}
+
+img.tocimg 
+{
+	position : absolute;
+	z-index : 1;
+	top : 525px;
+	left : 25px;
+}
+
+img.tocimg:hover
+{
+	z-index : 0;
+}
+
+div.tocBody a:hover
+{
+	z-index : 1;
+	color : red;
+}
+
+div.tocBody
+{
+	position : absolute;
+	top : 525px;
+}
+
+#tocBody {
+	font-family : 'mw_font';
+	margin-left : 20px;
+    background: #f9f9f9 none repeat scroll 0 0;
+    border: 1px solid #aaa;
+    display: table;
+    font-size: 95%;
+    padding: 15px;
+    width: auto;
+}
+
+.tocTitle {
+	font-family : 'mw_font';
+    font-weight: 700;
+    text-align: left;
+}
+
+#tocBody li, #tocBody ul, #tocBody ul li{
+    list-style: outside none none !important;
+}
+
+#unu h1
+{
+	font-family : 'mw_font';
+	color : #413220;
+	margin-left : 25px;
+}
+
+#unu p
+{
+	font-family : 'mw_font';
+	margin-left : 25px;
+}
+
+#unupunctunu h2
+{
+	font-family : 'mw_font';
+	color : #413220;
+	margin-left : 55px;
+}
+
+#unupunctunu p
+{
+	font-family : 'mw_font';
+	margin-left : 55px;
+}
+#jiubslbz img
+{
+	margin-left : 55px;
+	width : 15%;
+	height : auto;
+}
+#jiubslbz p
+{
+	position : absolute;
+	font-family : 'mw_font';
+	margin-left : 260px;
+	margin-top : -330px;
+}
+#cliffracer img
+{
+	position : absolute;
+	width : 33%;
+	height : auto;
+	margin-left : 260px;
+	margin-top : -290px;
+}
+
+#unupunctdoi h2
+{
+	font-family : 'mw_font';
+	color : #413220;
+	margin-left : 55px;
+}
+
+#unupunctdoi h4
+{
+	font-family : 'mw_font';
+	color : #413220;
+	margin-left : 55px;
+}
+
+#unupunctdoi p
+{
+	font-family : 'mw_font';
+	margin-left : 55px;
+}
+.spoiler 
+{
+	color : #413220;
+	background-color : #413220;
+}
+
+.spoiler:hover
+{
+	color : black;
+	background-color : #E4D9A3;
+}
+
+#doi h1
+{
+	font-family : 'mw_font';
+	color : #413220;
+	margin-left : 25px;
+}
+
+#doi h2
+{
+	font-family : 'mw_font';
+	color : #413220;
+	margin-left : 55px;
+}
+
+#hlaalu img
+{
+	margin-left : 55px;
+	width : 15%;
+	height : auto;
+}
+
+#doi p
+{
+	font-family : 'mw_font';
+	margin-left : 55px;
+}
+
+#divayth img
+{
+	position : absolute;
+	margin-left : 55px;
+	width : 40%;
+	height : auto;
+}
+
+#telfyr img
+{
+	position : absolute;
+	margin-left : 55px;
+	width : 50%;
+	height : auto;
+}
+
+img.telfyrh:hover
+{
+	opacity : 0;
+}
+
+#end h3
+{
+	font-family : 'mw_font';
+	color : #413220;
+	margin-left : 25px;
+}
+#end img
+{
+
+	margin-left : auto;
+	margin-right : auto;
+	margin : 20px auto;
+}
